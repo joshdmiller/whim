@@ -1,0 +1,24 @@
+{
+  "name": "whim",
+  "version": "0.0.1",
+  "description": "An attempt to create the best possible editor for the web. Inspired by Vim.",
+  "homepage": "http://github.com/joshdmiller/whim",
+  "author": "Josh David Miller <josh@joshdavidmiller.com> (http://www.joshdavidmiller.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshdmiller/whim"
+  },
+  "license": "MIT",
+  "bugs": "http://github.com/joshdmiller/whim/issues",
+  "keywords": [
+    "vim",
+    "editor"
+  ],
+  "devDependencies": {
+    "gulp": "^3.5.5",
+    "gulp-myth": "^0.1.1",
+    "gulp-util": "^2.2.14",
+    "event-stream": "^3.1.0",
+    "coffee-script": "^1.7.1"
+  }
+}
